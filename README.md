@@ -1,4 +1,4 @@
-# Cordova Plugin aligned with W3C
+# Cordova Plugin aligned with W3C specification
 Specification  | Plugin | Note |
 :-------------|:------------|:-------------|
 Background Synchronization | [cordova-plugin-service-worker-background-sync](https://github.com/MobileChromeApps/cordova-plugin-service-worker-background-sync) | iOS  only  |
